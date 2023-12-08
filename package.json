@@ -199,7 +199,8 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "webpack --mode=production"
+    "build": "webpack --mode=production",
+    "lint": "eslint ."
   },
   "author": "",
   "license": "ISC",
